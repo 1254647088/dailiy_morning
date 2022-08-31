@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "4366a5077623df3f04bbd20e00b5c9e3",
 # 模板消息id
-"template_id": "hP409k5jjLS1lzWRfMLui6qHAZYZBxinXFsEpeUQqOA",
+"template_id": "RJvuHFCc9LXAEysJutR7TUEKDVV8fbSDDlb-8ao0jqA",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["ojB4q6_MAiak9VLNctOWcVkdGLNc"],
  
@@ -15,11 +15,12 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "江北区",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "##", "birthday": "2001-01-01"},
+"birthday1": {"name": "小邓同学", "birthday": "2002-03-09"},
 # 生日2
-"birthday2": {"name": "##", "birthday": "2001-01-01"},
+"birthday2": {"name": "小陈同学", "birthday": "2001-08-12"},
+每天都要多喝水哦！
 # 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2022-01-01",
+"love_date": "2020-05-28",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
